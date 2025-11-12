@@ -28,14 +28,14 @@ Minimal Viable Outcome:
 
 ## Milestones
 
-- Week 1
+- Week 13
   1. Core game creation
   2. Level 1 design
 
-- Week 2
+- Week 14
   1. Level 1 Asset Creation
   2. Main Menu
 
-- Week N (Final)
+- Week 15 (Final)
   1. Level 2 and 3 Creation
   2. Cutscenes
