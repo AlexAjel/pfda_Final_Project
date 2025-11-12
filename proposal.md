@@ -1,41 +1,41 @@
-# Title
+# Graffiti Guy
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/AlexAjel/pfda_Final_Project
 
 ## Description
-1-2 sentence description of what it will do and how it relevant to media and digital arts.
+A 2D platforming game where you paint the dull walls of a colorless city before you get caught. It's an interactive experience that demonstrates the struggle of expressing creativity in a desaturated world.
 
 ## Features
-- Feature 1
-	- Short explaination of how it will be executed.
-- Feature 2
-	- Short explaination of how it will be executed.
-- Feature N 
-	- Short explaination of how it will be executed.
+- Running/Jumping
+	- Use the directional keys to perform vertical and horizontal movement
+- Spray (interact)
+	- Use the 'z' key to use the paint spray ability for designated structures
+- Law Enforcement 
+	- Various obstacles that will prevent you from painting, losing the game
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Learn how to make 'collisions', similar to how objects interact in game engines.
+- Learn how to transition from cutscene to gameloop.
+- Learn how to make a Main Menu.
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- A complete game narrative with three levels that becomes progressively difficult and unlocks a free roam mode for true creativity.
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- One beatable level.
 
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Core game creation
+  2. Level 1 design
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Level 1 Asset Creation
+  2. Main Menu
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Level 2 and 3 Creation
+  2. Cutscenes
